@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "async-file": "^2.0.2",
+    "puppeteer": "^16.1.0",
+    "puppeteer-extra": "^3.3.4",
+    "puppeteer-extra-plugin-adblocker": "^2.13.5",
+    "puppeteer-extra-plugin-stealth": "^2.11.1",
+    "random-name": "^0.1.2",
+    "readline-sync": "^1.4.10"
+  }
+}
